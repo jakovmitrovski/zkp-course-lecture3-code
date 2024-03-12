@@ -1,4 +1,4 @@
-SHELL = zsh
+SHELL = sh
 
 circom = sudoku.circom
 r1cs = sudoku.r1cs
